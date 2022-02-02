@@ -1,2 +1,2 @@
 # Parser
-Parser for differrent web-sites
+Парсеры для получения списка вузов, перечней специальностей
