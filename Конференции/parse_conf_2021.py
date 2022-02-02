@@ -56,7 +56,6 @@ def parse2(req, file1):
     i+=1
   return d
 
-#link = "https://naukaip.ru/archive2019/"
 link = "https://naukaip.ru/archive2021/"
 file1 = open('conf_2021.txt', 'w')
 req = requests.get(link).text
